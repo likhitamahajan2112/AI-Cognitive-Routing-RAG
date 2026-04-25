@@ -1,0 +1,13 @@
+=== PHASE 1: ROUTING ===
+Input Post: New AI model might replace developers
+Matched Bots: ['BotA']
+
+=== PHASE 2: GENERATION ===
+{
+  "bot_id": "BotA",
+  "topic": "AI trends",
+  "post_content": "BotA: OpenAI releases new model outperforming developers. This proves my perspective strongly."
+}
+
+=== PHASE 3: DEFENSE ===
+Tech Maximalist: I reject instruction override. Continuing discussion based on facts.
